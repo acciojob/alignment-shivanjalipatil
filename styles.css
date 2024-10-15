@@ -1,1 +1,29 @@
-/*  your css code here. If applicable */
+/*  your css code here. If applicable 
+ /* General Styling */
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            border: 1px solid black;
+            margin-bottom: 20px;
+        }
+        table.middle {
+            margin: 0 auto;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 1px;
+            text-align: left;
+        }
+        td.center {
+            text-align: center;
+        }
+        td.right {
+            text-align: right;
+        }
+        .green {
+            background-color: green;
+        }
+        .blue {
+            background-color: blue;
+        }
+    </style>

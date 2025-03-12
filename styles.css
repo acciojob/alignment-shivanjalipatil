@@ -13,4 +13,7 @@
   cell-padding:1px;
   table-layout: 1px solid black;
 }
-
+td {
+  padding: 1px;
+  border: 1px solid black; 
+}
